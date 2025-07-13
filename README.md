@@ -39,7 +39,7 @@
 - 🔗 [IPSET 2.0 (HTML + CSS + JS + Bootstrap + Ajax + PHP + MySQL)](https://medrayentn.github.io/ipset.tn/)
 - 🔗 [Portfolio Website](https://medrayentn.github.io/myportfolio/)
 
-> 📝 *Add more as you build them!*
+> 📝 *And more!*
 
 ---
 
