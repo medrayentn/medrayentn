@@ -2,7 +2,7 @@
 <h3 align="center">🎓 IT Management Student | 💻 Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;IT+Management+Student;Learning+Every+Day;Dreaming+Big+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=cd3232&center=true&vCenter=true&width=435&lines=Passionate+Web+Developer;IT+Management+Student;Learning+Every+Day;Dreaming+Big+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 ---
@@ -32,12 +32,14 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayenOrgElmi&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RayenOrgElmi&theme=radical" width="45%"/>
-</p>
+- 🔗 [Clickora+ - Marketing Agency (HTML + CSS + JS)](https://clickoraaa.github.io/clickora.agency/)
+- 🔗 [Fitness Website (HTML + CSS + JS + Bootstrap)](https://medrayentn.github.io/FitBoost-Nutrition/)
+- 🔗 [IPSET 2.0 (HTML + CSS + JS + Bootstrap + Ajax + PHP + MySQL)](https://medrayentn.github.io/ipset.tn/)
+- 🔗 [Portfolio Website](https://medrayentn.github.io/myportfolio/)
+
+> 📝 *Add more as you build them!*
 
 ---
 
